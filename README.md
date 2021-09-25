@@ -1,4 +1,3 @@
-  Hello!
-  I am 4w55 and I play games like mc or gd stuff like that.
-  uhhhhhhhhhhhhhhh
-  bye?
+Hello! Please use this link as a alternitive to this:
+
+https://speeedyatgithub.github.io/4w55.github.io/
