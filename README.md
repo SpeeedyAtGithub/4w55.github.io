@@ -4,8 +4,3 @@ https://speeedyatgithub.github.io/4w55.github.io/
 
 If not then carry on!
 
-<form> 
-<input type=button 
-value="test"
-onClick="self.location='https://speeedyatgithub.github.io/4w55.github.io/'">
-</form> 
