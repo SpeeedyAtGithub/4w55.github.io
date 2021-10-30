@@ -22,29 +22,34 @@ ________________________________________________________________________________
   Mojang added so many new items and by the looks of it everyone will be happy.
   There is to many blocks to put in so I will tell you about the mobs.
   
-  Allay
+.Allay
+
 Voted to be in the update during Minecraft Live 2021.
 Can find dropped blocks or items for a player.
 Picks up dropped items in loaded chunks and can carry up to a stack at a time,[10] and cannot duplicate items[11] or take items out of chests. it drops collected items when in range with a note block
 
-  Frog
-Comes in three variants: default, tropical, and snowy.
+  .Frog
+
+omes in three variants: default, tropical, and snowy.
 Variants depend on the temperature of the biome.
 Likes to jump on lily pads and big dripleaves.
 Each variant is planned to have a unique use for players, currently unknown.
 Grows from a tadpole.
 
-  Firefly
+  .Firefly
+
 Glows in the dark.
 Are eaten by frogs.
 Are currently only two pixels big, making them the smallest mob in the game.
 
   Tadpole
+
 Grow up into frogs.
 Can be held in buckets.
 Frog type dependent on which temperature a tadpole grows in. This mob has 3 variants, tropical, temperate, and tundra.
 
-  Warden
+  .Warden
+
 Spawns in the new Deep Dark biome, including within Deep Dark Cities.
 The first fully blind mob (bats, despite relying almost exclusively on echolocation, still have basic eyesight).
 Has a sense of smell. It detects a player who gets too close, regardless if they made any vibrations.
