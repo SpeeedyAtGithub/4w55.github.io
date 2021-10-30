@@ -22,13 +22,13 @@ ________________________________________________________________________________
   Mojang added so many new items and by the looks of it everyone will be happy.
   There is to many blocks to put in so I will tell you about the mobs.
   
-.Allay
+  Allay
 
 Voted to be in the update during Minecraft Live 2021.
 Can find dropped blocks or items for a player.
 Picks up dropped items in loaded chunks and can carry up to a stack at a time,[10] and cannot duplicate items[11] or take items out of chests. it drops collected items when in range with a note block
 
-  .Frog
+  Frog
 
 omes in three variants: default, tropical, and snowy.
 Variants depend on the temperature of the biome.
@@ -36,7 +36,7 @@ Likes to jump on lily pads and big dripleaves.
 Each variant is planned to have a unique use for players, currently unknown.
 Grows from a tadpole.
 
-  .Firefly
+  Firefly
 
 Glows in the dark.
 Are eaten by frogs.
@@ -48,13 +48,13 @@ Grow up into frogs.
 Can be held in buckets.
 Frog type dependent on which temperature a tadpole grows in. This mob has 3 variants, tropical, temperate, and tundra.
 
-  .Warden
+  Warden
 
 Spawns in the new Deep Dark biome, including within Deep Dark Cities.
 The first fully blind mob (bats, despite relying almost exclusively on echolocation, still have basic eyesight).
 Has a sense of smell. It detects a player who gets too close, regardless if they made any vibrations.
 Has a sense of vibration. When sensing movement, it moves toward the source of the movement.
-It follows and attacks players, mobs, and other entities that make vibrations.[note 1]
+It follows and attacks players, mobs, and other entities that make vibrations.
 It does not attack other Wardens.
 When attacked, it path finds toward the player.
 Seems to follow the same rules as the Sculk Sensor when detecting noise.
@@ -62,18 +62,18 @@ When it detects a vibration, the growths on its head rattle and light up, simila
 If any projectile (e.g. egg, snowball, arrow) lands near the Warden, the mob inspects the location where the projectile landed, due to the projectile creating movement and noise. This feature can be used in order to cause a distraction.
 Does not detect players that are sneaking.
 When aggravated for long enough, the warden follows the player continuously, regardless of any other distractions.
-Because of this, it can detect players that are invisible.[13]
-Burns in direct daylight. [14]
-It is the only mob that spawns in Deep Dark.[15]
-A mob designed to be extremely difficult, intended to be avoided and fled from.[16]
-Has a way to counter the strategy of building up 3 blocks to avoid attacks.[17]
+Because of this, it can detect players that are invisible.
+Burns in direct daylight. 
+It is the only mob that spawns in Deep Dark.
+A mob designed to be extremely difficult, intended to be avoided and fled from.
+Has a way to counter the strategy of building up 3 blocks to avoid attacks.
 Incredibly strong, doing 32♥ × 16 damage, bringing players wearing full netherite armor from full health to 7♥♥♥♥ health points.
-Currently has 500♥ × 250 health points.[18]
+Currently has 500♥ × 250 health points.
 At least as fast as the player's walking speed.
 Seems to have knockback resistance.
 The warden's chest has a glowing core that appears to brighten and dim in tandem with the Darkness effect.
 The core creates a low throbbing sound as it pulses. The sound and animation seem to speed up rapidly when the warden notices a player.
-Is about 3.5 blocks tall, making it one of the tallest mobs in the game, exceeding the iron golem and enderman in height and width (the same).[note 2][19]
+Is about 3.5 blocks tall, making it one of the tallest mobs in the game, exceeding the iron golem and enderman in height and width (the same).
 Can be summoned by Sculk Shriekers; a Warden rises out of the ground nearby if too many are activated.
 (Info from: https://minecraft.fandom.com/wiki/Java_Edition_1.19)
 Well that includes the post.
