@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 Voted to be in the update during Minecraft Live 2021.
 Can find dropped blocks or items for a player.
-Picks up dropped items in loaded chunks and can carry up to a stack at a time,[10] and cannot duplicate items[11] or take items out of chests. it drops collected items when in range with a note block
+Picks up dropped items in loaded chunks and can carry up to a stack at a time, and cannot duplicate items or take items out of chests. it drops collected items when in range with a note block
 
   Frog
 
